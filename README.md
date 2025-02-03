@@ -32,5 +32,6 @@ utilizando rotinas de interrupção (IRQ).
 3. Controle de LEDs: O projeto deve incluir o uso de LEDs comuns e LEDs WS2812, demonstrando o 
 domínio de diferentes tipos de controle
 
-Vídeo
+## 📺 Assista à demonstração do projeto em execução:
+
 https://drive.google.com/file/d/10VEKy99vNSrxz3CMbS3tJXXC0OQZ9Z-K/view?usp=sharing
