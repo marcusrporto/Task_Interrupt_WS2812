@@ -33,3 +33,4 @@ utilizando rotinas de interrupção (IRQ).
 domínio de diferentes tipos de controle
 
 Vídeo
+https://drive.google.com/file/d/10VEKy99vNSrxz3CMbS3tJXXC0OQZ9Z-K/view?usp=sharing
